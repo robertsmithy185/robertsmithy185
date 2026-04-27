@@ -1,12 +1,5 @@
 # Hi there, I'm Robert! 👋
-A passionate developer and tech enthusiast.
-
-## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[masukkan nama project/pekerjaanmu di sini]**
-- 🌱 I’m currently learning **[masukkan apa yang sedang kamu pelajari]**
-- 👯 I’m looking to collaborate on **[masukkan project impian/open source]**
-- 💬 Ask me about **Java, Python, Web Development, or Cloud Computing**
-- 📫 How to reach me: Check out my socials below!
+**Stop being a fucking idiot**
 
 <br/>
 
